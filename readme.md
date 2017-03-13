@@ -38,3 +38,23 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+
+## Project Description
+The purpose of this project is to make the Web app like AirBNB.
+I have made the Frontend and backend for this.
+
+The testing site is: http://muzbnb.dreamhosters.com/
+Design File: https://invis.io/HPAFKGOJF
+
+----Design Director
+Nur Ahmad Furlong
+
+Mobile: +966505899542
+
+email: nur@2beards.co
+
+Online Profile:	www.nurahmadfurlong.com
+
+Linkedin Profile: linkedin.com/in/nomadone
+
+Twitter: www.twitter.com/nomadone
